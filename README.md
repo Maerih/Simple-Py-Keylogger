@@ -1,7 +1,7 @@
 # Simple-Py-Keylogger
 A simple python keylogger to capture ALL keystrokes pressed on the  keyboard.
 
--This script captures all strokes on targets machine and saves them locally with time stamp.
+-This script captures all strokes on targets machine and saves them locally as `keylogs.txt` with time stamp.
 
 
 -To run this script run `python3 keylogger.py` to start capturing key-logs.
